@@ -1,2 +1,2 @@
 # JS30
-<h1>JavaScript 30 Challenge Repository </h1?
+<h1>30 Days Vanilla JS Challenge Repository </h1?
