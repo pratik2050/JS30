@@ -1,5 +1,5 @@
 function playSound(e) {
-	const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
+	const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);					//Pratik Das
 	const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
 	
 	key.classList.add('play');				//adding play css to key
