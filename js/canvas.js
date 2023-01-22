@@ -43,7 +43,7 @@ canvas.addEventListener('mousedown', (e) => {
     isDrwawing = true;
 
     lastX = e.offsetX;
-    lastY = e.offsetY;      // updating mouse pointer after user stops one draw
+    lastY = e.offsetY;      // updating mouse pointer after user stops one drawjkdsbvhsbdvjnivm
 });
 
 canvas.addEventListener('mousemove', draw);
